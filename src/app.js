@@ -9,6 +9,7 @@ app.use(express.static(publicPath));
 app.get('/',(req,res)=>{
     res.render('home');
 })
-app.listen(4000,()=>{
+const port = 4000 || process.env.PORT;
+app.listen(port,()=>{
     console.log("hello client ji");
 })
