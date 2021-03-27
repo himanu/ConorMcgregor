@@ -235,7 +235,7 @@ background-color: #717171;
         margin : 0px;
         background-color: white;
         width : 100vw;
-        top : 7vh;
+        top : 10vh;
         right : -100vw;
         transform: translate 1.25s ease-in-out;
     }
