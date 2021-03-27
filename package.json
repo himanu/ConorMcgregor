@@ -1,0 +1,24 @@
+{
+  "name": "conor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+   
+    "start" : "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanu/ConorMcgregor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanu/ConorMcgregor/issues"
+  },
+  "homepage": "https://github.com/himanu/ConorMcgregor#readme"
+}
